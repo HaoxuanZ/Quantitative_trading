@@ -49,3 +49,11 @@ Our portfolio MMD is 11.54%, but SPY was down to 31.53% during the COVID Crisis.
 ![](https://github.com/HaoxuanZ/Quantitative_trading/blob/master/gld_cumrets.png)
 
 ![](https://github.com/HaoxuanZ/Quantitative_trading/blob/master/gold_MMD.png)
+
+
+**UPDATE**
+
+update sector trading via Monte Carlo Simulation and calculate efficient frontier
+
+In Optimal.py
+
